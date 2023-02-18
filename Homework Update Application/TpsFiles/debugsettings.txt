@@ -15,6 +15,4 @@ Play Music:
 0
 
 Folder Path:
-C:\Users\navil\Desktop
-
-NOTE: path1 is set in Tps V3, Fromfolder, PlaySong, Upl_Corr, Working, Pretty. NEED TO MANUALLY CHANGE IT
+<inserthere>
