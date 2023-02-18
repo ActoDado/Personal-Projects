@@ -1,0 +1,20 @@
+Rand Value(s):
+Min:0.4
+Max:2.1
+
+
+For settings below, change to 1 for yes and 0 for no		DONT CHANGE THE TITLES
+
+Mark All Completed:
+1
+
+Late Submission:		(iF 0 it goes to NS)
+1
+
+Play Music:
+0
+
+Folder Path:
+C:\Users\navil\Desktop
+
+NOTE: path1 is set in Tps V3, Fromfolder, PlaySong, Upl_Corr, Working, Pretty. NEED TO MANUALLY CHANGE IT
